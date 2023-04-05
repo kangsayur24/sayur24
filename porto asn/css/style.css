@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: rgb(32, 130, 205)
+  }
+
+nav{
+    font-family: fantasy;
+    background-color: rgb(117, 67, 39);
+}
+.footer {
+  background-color: rgb(117, 67, 39);
+}
